@@ -10,6 +10,7 @@ Property Type Distribution
 Geo-Visualization
 Dashboard Creation Using Tableau
 KINDLY CHECK OUT THE VIDEO OF THE PROJECT : - click here
+
 I have listed the Feature of data below :
     Id                     0
     amenities              0
@@ -42,6 +43,7 @@ I have listed the Feature of data below :
     Description            0
     Name                   0
     Is_exact_location      0
+
 WorkFlow :
 Step- 1 Retrieve Data From MongoDB Atlas :
 Initialize Need to create an account with MongoDB Atlas. Secondly, Create a database and browse the sample_airbnb_dataset. We cannot download the dataset directly we need to make a connected MongoDB and Retrieve data as mentioned below.
@@ -63,6 +65,7 @@ Initialize Need to create an account with MongoDB Atlas. Secondly, Create a data
                       ....
         tst.append(data)  
         airbnb=pd.DataFrame(tst)
+
 Step- 2 Data Cleaning :
 Treating Null values in the dataset -
 House_rules            2285
@@ -148,8 +151,4 @@ img
 Step- 4 Streamlit Application :
 Develop an Interactive and Dynamic web page- img
 Step- 5 Tableau Dashboard Creation:
-img
-
-TOP LANGUAGE:
-Top Langs
 
