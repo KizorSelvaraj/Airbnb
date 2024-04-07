@@ -150,5 +150,6 @@ img
 
 Step- 4 Streamlit Application :
 Develop an Interactive and Dynamic web page- img
-Step- 5 Tableau Dashboard Creation:
+Step- 5 Powerbi Dashboard Creation:
+![powerbi](https://github.com/KizorSelvaraj/Airbnb/assets/149144969/8befea13-baee-41d5-b7ed-2df077a53f42)
 
